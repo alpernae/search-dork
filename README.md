@@ -11,6 +11,8 @@ Search dork tool let you searching your own dorks on terminal
 `./install.sh && python3 search-dork`
 
 
+![this](https://github.com/alpernae/search-dork/blob/main/search-dork.png)
+
 ### Feedback
 
 + @alpernae (TW/IG)
